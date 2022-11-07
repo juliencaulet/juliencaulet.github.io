@@ -6,8 +6,8 @@ header_menu: true
 
 ![Bertrand Helmli](images/julien.jpg)
 
-##### Julien Caulet
+##### JULIEN CAULET
 
 Expert en technologies DevOps. 
 
-[Expériences précédentes](experiences)
+[More...](experiences)
