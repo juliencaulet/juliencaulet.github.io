@@ -1,5 +1,5 @@
 ---
-title: "Qui suis-je ?"
+title: "About me"
 weight: 4
 header_menu: true
 ---

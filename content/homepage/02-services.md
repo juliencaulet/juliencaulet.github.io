@@ -1,5 +1,5 @@
 ---
-title: "Prestations"
+title: "Services"
 weight: 2
 header_menu: true
 ---

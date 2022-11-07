@@ -9,9 +9,9 @@ defaultContentLanguage = "fr"
 theme = "scroll"
 
 # The "title" of your website
-title = "Bertrand Helmli - Expert technique"
+title = "Julien Caulet - DevOps Consultant"
 
-publishDir = "./public"
+publishDir = "./docs"
 
 [markup]
   [markup.tableOfContents]
@@ -22,7 +22,7 @@ publishDir = "./public"
 [params]
     # A "copyright"-line to be added at the bottom of the page.
     # Hint: Markdown is supported in here as well. So you may e.g. add a link to your legal imprint-page.
-    copyright = "© Bertrand Helmli"
+    copyright = "2022 © Julien Caulet - Version 1.0"
 
     # The "description" of your website. This is used in the meta data of your generated html.
     description = "DevOps Consultant"
@@ -34,12 +34,12 @@ publishDir = "./public"
     # services like Twitter or Slack want to generate a preview of a link to your site.
     # See https://gohugo.io/templates/internal#twitter-cards and
     # https://gohugo.io/templates/internal#open-graph.
-    images = ["images/cover-image.jpg"]
+    images = ["images/cover-1.jpg"]
 
     # Another "title" :-). This one is used as the site_name on the Hugo's internal
     # opengraph structured data template.
     # See https://ogp.me/ and https://gohugo.io/templates/internal#open-graph.
-    title = "Bertrand Helmli - Expert technique"
+    title = "Julien Caulet - DevOps Consultant"
 
     # This theme will, by default, inject a design-by-line at the bottom of the page.
     # You can turn it off, but we would really appreciate if you don’t :-)
